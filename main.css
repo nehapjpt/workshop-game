@@ -3,6 +3,7 @@
     margin-left:auto;
     margin-right:auto;
     background-color:#fff;
+    float:left;
 }
 
 #title {
@@ -12,6 +13,7 @@
 }
 
 #door1 {
+    float:left;
     width:200px;
     height:200px;
     background-image:url("image/door1.png");
