@@ -1,0 +1,139 @@
+#gameboard {
+    width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:#fff;
+}
+
+#title {
+    width:600px;
+    height:150px;
+    background-image:url('/images/title.png');
+    
+}
+
+#door1 {
+    width:200px;
+    height:200px;
+    background-image:url("/images/door1.png");
+}
+
+#door1:hover {
+    background-image:url("/images/door1hover.png");
+}
+
+#door1:active {
+    background-image:url("/images/dooropen.png");
+}
+
+#door2 {
+    width:200px;
+    height:200px;
+    background-image:url("/images/door2.png");
+}
+
+#door2:hover {
+    background-image:url("/images/door2hover.png");
+}
+
+#door2:active {
+    background-image:url("/images/dooropen.png");
+}
+
+#door3 {
+    width:200px;
+    height:200px;
+    background-image:url("/images/door3.png");
+}
+
+#door3:hover {
+    background-image:url("/images/door3hover.png");
+}
+
+#door3:active {
+    background-image:url("/images/dooropen.png");
+}
+
+#door4 {
+    width:200px;
+    height:200px;
+    background-image:url("/images/door4.png");
+}
+
+#door4:hover {
+    background-image:url("/images/door4hover.png");
+}
+
+#door4:active {
+    background-image:url("/images/dooropen.png");
+}
+
+#door5 {
+    width:200px;
+    height:200px;
+    background-image:url("/images/door5.png");
+}
+
+#door5:hover {
+    background-image:url("/images/door5hover.png");
+}
+
+#door5:active {
+    background-image:url("/images/dooropen.png");
+}
+
+#door6 {
+    width:200px;
+    height:200px;
+    background-image:url("/images/door6.png");
+}
+
+#door6:hover {
+    background-image:url("/images/door6hover.png");
+}
+
+#door6:active {
+    background-image:url("/images/dooropen.png");
+}
+
+#door7 {
+    width:200px;
+    height:200px;
+    background-image:url("/images/door7.png");
+}
+
+#door7:hover {
+    background-image:url("/images/door7hover.png");
+}
+
+#door7:active {
+    background-image:url("/images/dooropen.png");
+}
+
+#door8 {
+    width:200px;
+    height:200px;
+    background-image:url("/images/door8.png");
+}
+
+#door8:hover {
+    background-image:url("/images/door8hover.png");
+}
+
+#door8:active {
+    background-image:url("/images/dooropen.png");
+}
+
+#door9 {
+    width:200px;
+    height:200px;
+    background-image:url("/images/door9.png");
+}
+
+#door9:hover {
+    background-image:url("/images/door9hover.png");
+}
+
+#door9:active {
+    background-image:url("/images/door9kanye.png");
+}
