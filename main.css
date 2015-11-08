@@ -8,132 +8,131 @@
 #title {
     width:600px;
     height:150px;
-    background-image:url('/images/title.png');
-    
+    background-image:url("image/title.png");
 }
 
 #door1 {
     width:200px;
     height:200px;
-    background-image:url("/images/door1.png");
+    background-image:url("image/door1.png");
 }
 
 #door1:hover {
-    background-image:url("/images/door1hover.png");
+    background-image:url("image/door1hover.png");
 }
 
 #door1:active {
-    background-image:url("/images/dooropen.png");
+    background-image:url("image/dooropen.png");
 }
 
 #door2 {
     width:200px;
     height:200px;
-    background-image:url("/images/door2.png");
+    background-image:url("image/door2.png");
 }
 
 #door2:hover {
-    background-image:url("/images/door2hover.png");
+    background-image:url("image/door2hover.png");
 }
 
 #door2:active {
-    background-image:url("/images/dooropen.png");
+    background-image:url("image/dooropen.png");
 }
 
 #door3 {
     width:200px;
     height:200px;
-    background-image:url("/images/door3.png");
+    background-image:url("image/door3.png");
 }
 
 #door3:hover {
-    background-image:url("/images/door3hover.png");
+    background-image:url("image/door3hover.png");
 }
 
 #door3:active {
-    background-image:url("/images/dooropen.png");
+    background-image:url("image/dooropen.png");
 }
 
 #door4 {
     width:200px;
     height:200px;
-    background-image:url("/images/door4.png");
+    background-image:url("image/door4.png");
 }
 
 #door4:hover {
-    background-image:url("/images/door4hover.png");
+    background-image:url("image/door4hover.png");
 }
 
 #door4:active {
-    background-image:url("/images/dooropen.png");
+    background-image:url("image/dooropen.png");
 }
 
 #door5 {
     width:200px;
     height:200px;
-    background-image:url("/images/door5.png");
+    background-image:url("image/door5.png");
 }
 
 #door5:hover {
-    background-image:url("/images/door5hover.png");
+    background-image:url("image/door5hover.png");
 }
 
 #door5:active {
-    background-image:url("/images/dooropen.png");
+    background-image:url("image/dooropen.png");
 }
 
 #door6 {
     width:200px;
     height:200px;
-    background-image:url("/images/door6.png");
+    background-image:url("image/door6.png");
 }
 
 #door6:hover {
-    background-image:url("/images/door6hover.png");
+    background-image:url("image/door6hover.png");
 }
 
 #door6:active {
-    background-image:url("/images/dooropen.png");
+    background-image:url("image/dooropen.png");
 }
 
 #door7 {
     width:200px;
     height:200px;
-    background-image:url("/images/door7.png");
+    background-image:url("image/door7.png");
 }
 
 #door7:hover {
-    background-image:url("/images/door7hover.png");
+    background-image:url("image/door7hover.png");
 }
 
 #door7:active {
-    background-image:url("/images/dooropen.png");
+    background-image:url("image/dooropen.png");
 }
 
 #door8 {
     width:200px;
     height:200px;
-    background-image:url("/images/door8.png");
+    background-image:url("image/door8.png");
 }
 
 #door8:hover {
-    background-image:url("/images/door8hover.png");
+    background-image:url("image/door8hover.png");
 }
 
 #door8:active {
-    background-image:url("/images/dooropen.png");
+    background-image:url("image/dooropen.png");
 }
 
 #door9 {
     width:200px;
     height:200px;
-    background-image:url("/images/door9.png");
+    background-image:url("image/door9.png");
 }
 
 #door9:hover {
-    background-image:url("/images/door9hover.png");
+    background-image:url("image/door9hover.png");
 }
 
 #door9:active {
-    background-image:url("/images/door9kanye.png");
+    background-image:url("image/door9kanye.png");
 }
